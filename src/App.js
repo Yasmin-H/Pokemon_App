@@ -1,9 +1,18 @@
-import logo from './logo.svg';
+
 import './App.css';
+import './Components/Central'
+import Central from './Components/Central';
+import  Card from './Components/Card';
+import PokeInfo from './Components/PokeInfo';
+import './Components/style.css'
 
 function App() {
   return (
-  <h1>Hello Yasmin</h1>
+    <div>
+    <Central />
+    {/* <Card/> */}
+    {/* <PokeInfo/> */}
+    </div>
   );
 }
 
