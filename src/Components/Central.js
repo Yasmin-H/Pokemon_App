@@ -12,6 +12,13 @@ export default function Central() {
         <Card/>
         <Card/>
         <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+       
         <div className='btn-group'>
             <button>Previous</button>
             <button>Next</button>

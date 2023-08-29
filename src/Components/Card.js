@@ -5,7 +5,7 @@ export default function Card() {
     <div>
       <div className='card'>
         <h2>1</h2>
-        <img src="./images/charmander.png" width="100" height="120" alt="A pokemon figure "/>
+        <img src="./images/charmander-2.png" width="50" height="50" alt="A pokemon figure "/>
         <h2>charmander</h2>
 
       </div>
